@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+p {
+    border: 1px solid orange;
+    outline-color: white;
+}
+
 div {
     -webkit-column-count: 2; /* Chrome, Safari, Opera */
     -moz-column-count: 2; /* Google */
