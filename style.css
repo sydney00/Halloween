@@ -1,4 +1,11 @@
 <!DOCTYPE html>
+div {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Google */
+    column-count: 2;
+}
+Try it Yourself »
+
 body {
     background-color: grey;
 }
