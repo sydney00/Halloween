@@ -29,6 +29,10 @@ html {
     background: url(https://image.freepik.com/free-vector/spooky-halloween-background-with-pumpkins-in-a-cemetery_1048-3055.jpg) no-repeat center fixed; 
     background-size: cover;
 }
+body {
+    background-image: url("https://image.freepik.com/free-vector/spooky-halloween-background-with-pumpkins-in-a-cemetery_1048-3055.jpg");
+    background-color: #cccccc;
+}
 
 .center {
     text-align: center;
