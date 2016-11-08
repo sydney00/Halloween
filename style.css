@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 p {
-    border: 80px solid white;
+    border: 80px ; color: solid white
     outline-color: black;
 }
 
