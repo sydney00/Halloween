@@ -13,7 +13,11 @@ div {
     text-align:center;
 }
 
-
+nav {
+    color: 40px;
+    font-family: arial;
+    background-color: black;
+}
 h1 {
     color: orange;
     text-align: center;
