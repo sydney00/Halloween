@@ -12,13 +12,17 @@ div {
     Margin:auto;
     Display: block;
     background-color:white;
-    text-align:center;
+    text-align: left;
 }
 
 
 h1 {
     color: orange;
     text-align: center;
+}
+
+H2 {
+    text-align:center;
 }
 
 p {
