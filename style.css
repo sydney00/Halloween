@@ -14,8 +14,9 @@ div {
 }
 
 nav {
-    color: 40px;
-    font-family: arial;
+    color:orange
+    font-size: 40px;
+    font-family: verdana;
     background-color: black;
 }
 h1 {
