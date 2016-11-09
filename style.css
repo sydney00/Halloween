@@ -2,7 +2,6 @@
 
 element style {
     color:orange;
-    text-align:left;
 }
     
 div {
@@ -13,6 +12,7 @@ div {
     Margin:auto;
     Display: block;
     background-color:black;
+    text-align:left;
 }
 
 
