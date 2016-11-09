@@ -5,8 +5,6 @@ element style {
 }
     
 div {
-    -webkit-column-count: 2; /* Chrome, Safari, Opera */
-    -moz-column-count: 2; /* Google */
     column-count: 1;
     width:50%;
     Margin:auto;
