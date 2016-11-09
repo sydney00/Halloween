@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-p {
-    border: 80px ; color: solid white
-    outline-color: black;
-}
 
 element style {
     color:orange;
@@ -19,19 +15,7 @@ div {
     Display: block;
 }
 
-body {
-    background-color: orange;
-}
 
-h1 {
-    color: orange;
-    text-align: left;
-}
-
-p {
-    font-family: verdana;
-    font-size: 20px;
-}
 
 
 html {
