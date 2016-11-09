@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-
+body {
+    background-color:black
+}
 element style {
     color:orange;
     text-align:left;
