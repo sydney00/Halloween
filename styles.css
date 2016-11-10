@@ -6,11 +6,16 @@ element style {
     
 div {
     column-count: 1;
-    width:50%;
+    width:75%;
     Margin:auto;
     Display: block;
     background-color:orange;
     text-align:center;
+    
+}
+
+p {
+    font-size: 24px;
 }
 
 html {
