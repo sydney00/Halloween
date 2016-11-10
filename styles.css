@@ -1,1 +1,14 @@
-
+<!DOCTYPE html>
+<left>
+element style {
+    color:orange;
+}
+    
+div {
+    column-count: 1;
+    width:50%;
+    Margin:auto;
+    Display: block;
+    background-color:white;
+    text-align:center;
+}
