@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <left>
 element style {
-    color:orange;
+    color:black;
 }
     
 div {
@@ -9,6 +9,7 @@ div {
     width:50%;
     Margin:auto;
     Display: block;
-    background-color:white;
+    background-color:orange;
     text-align:center;
 }
+</left>
